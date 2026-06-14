@@ -33,10 +33,15 @@ This repository also includes IEEE format [**report**](https://github.com/Benjik
 ## 📂 Project Structure  
 ```
 Homework mining/
-├── image/         # Demonstration gif
-├── dice.py        # Main executable script
-├── LICENSE        # MIT license
-└── README.md      # Project documentation
+├── image/                 # Demonstration gif
+├── .env                   # Place to put your YZU portal password
+├── requirements.txt       # Required Python packages
+├── get_hw_list.py         # Script for collecting homework data
+├── homeworks.json         # Collected homework data
+├── hw_analysis.ipynb      # Data analysis and machine learning notebook
+├── report.pdf             # Final project report
+├── LICENSE                # MIT license
+└── README.md              # Project documentation
 ```
 
 <br>
@@ -50,11 +55,25 @@ pip install selenium python-dotenv pandas numpy matplotlib scikit-learn
 <br>
 
 ## ▶️ How to Run
-1. Clone & run:
+1. Clone this repository:
 ```bash
 git clone https://github.com/Benjikuo/Student-workload-mining.git
+cd Student-workload-mining
 ```
-2. Click or drag the dice to interact and have fun!  
+2. Install required packages
+```bash
+pip install -r requirements.txt
+```
+3. Add your YZU portal account at .env file
+```bash
+YZU_ID=your_student_id
+YZU_PASS=your_password
+```
+4. Run the data collection script
+```bash
+python get_hw_list.py
+```
+5. Open `hw_analysis.ipynb` with Jupyter Notebook or VS Code to analyze the data.
 
 <br>
 
