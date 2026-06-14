@@ -21,12 +21,10 @@ This repository also includes IEEE format [**report**](https://github.com/Benjik
 <br>
 
 ## 🧩 Features
-- 🔧 **Visualization** – Interactive visuals that help simplify and clarify data structures and algorithms.
-- 📑 **Structure** – Modular architecture with four focused sections: Basic Structures, Searching, Sorting, and Trees.
-- 🕑 **Interaction** – Real-time operations such as push/pop and enqueue/dequeue for hands-on learning.
-- 👟 **Animation** – Step-by-step algorithm animations that reveal how each process works internally.
-- ⬜ **Interface** – A clean, minimal UI designed to support intuitive, visualization-based learning.
- 
+- 📩 **Data Collection** – Automatically collects homework records from the YZU Portal using Selenium.
+- 📊 **Data Analysis** – Uses Python notebook to clean, process, and analyze homework deadline data.
+- 📈 **Workload Prediction** – Applies machine learning models to predict high-workload weeks.
+- 📄 **Report Included** – Provides an IEEE-format report explaining the methods, results, and findings.
 
 <br>
 
