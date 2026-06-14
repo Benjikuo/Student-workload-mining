@@ -15,7 +15,7 @@ This repository also includes IEEE format [**report**](https://github.com/Benjik
 
 ## 🛠️ Why I Built This
 - This is the group project for the **Data Mining course**. I choose this topic because it is relevant and interesting.
-- It is a good opportunity to learn how to use .ipynb files and analized my homework about late submission or low score.
+- It is a good opportunity to learn how to use .ipynb to analized my homework data in schools platform.
 - I am corious that is it possible to predict the workload in next semester with deadlines in the last.
 
 <br>
