@@ -5,7 +5,7 @@
 
 It analyzed the homework deadline data from YZU poral platform.
 
-This repository also includes IEEE format report [**slides**](https://github.com/Benjikuo/Data-structure-visualization/blob/main/Data%20Structure%20Visualization.pdf) about this project.  
+This repository also includes IEEE format [**report**](https://github.com/Benjikuo/Student-workload-mining/blob/main/report.pdf) about this project.  
 
 <p>
   <img src="./assets/image/showcase.gif" width="784">
@@ -14,9 +14,9 @@ This repository also includes IEEE format report [**slides**](https://github.com
 <br>
 
 ## 🛠️ Why I Built This
-- This is the group project for the **Data Structure course**. We choose this topic because it is the most relevant.
-- It is also a good opportunity to learn JS and practice using those data structures in algorithms.
-- I think after I finish this project, I will learn a lot. It will benefit me in future web projects.
+- This is the group project for the **Data Mining course**. I choose this topic because it is relevant and interesting.
+- It is also a good opportunity to learn how to use .ipynb files and analized my homework about late submission or low score.
+- I corious that is it possible to used the due time of homework in last semester to predict the workload in next semester.
 
 <br>
 
