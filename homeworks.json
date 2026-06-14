@@ -1,0 +1,1118 @@
+[
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Intro to Programming",
+    "assignment_name": "[SYNTHETIC DATA] Week 03 - Variables",
+    "due_at": "2024/10/1 12:00",
+    "late_minutes": 5,
+    "assignment_type": "個人",
+    "score": null
+  },
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Academic English I",
+    "assignment_name": "[SYNTHETIC DATA] Week 03 - Self Introduction",
+    "due_at": "2024/10/1 18:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 95
+  },
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Creative Design",
+    "assignment_name": "[SYNTHETIC DATA] Week 04 - Color Study",
+    "due_at": "2024/10/10 08:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": null
+  },
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Calculus Practice",
+    "assignment_name": "[SYNTHETIC DATA] Week 04 - Limits",
+    "due_at": "2024/10/10 11:59",
+    "late_minutes": 45,
+    "assignment_type": "個人",
+    "score": 75
+  },
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Academic English I",
+    "assignment_name": "[SYNTHETIC DATA] Week 05 - Reading Notes",
+    "due_at": "2024/10/16 08:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 88
+  },
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Intro to Programming",
+    "assignment_name": "[SYNTHETIC DATA] Week 05 - Loops",
+    "due_at": "2024/10/16 11:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 98
+  },
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Intro to Programming",
+    "assignment_name": "[SYNTHETIC DATA] Bonus Lab - Input Validation",
+    "due_at": "2024/10/18 23:59",
+    "late_minutes": 120,
+    "assignment_type": "個人",
+    "score": 100
+  },
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Digital Literacy",
+    "assignment_name": "[SYNTHETIC DATA] Week 05 - Web Basics",
+    "due_at": "2024/10/19 15:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 80
+  },
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Chinese Communication",
+    "assignment_name": "[SYNTHETIC DATA] Week 05 - Reading Note",
+    "due_at": "2024/10/19 23:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": null
+  },
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Calculus Practice",
+    "assignment_name": "[SYNTHETIC DATA] Week 06 - Derivatives",
+    "due_at": "2024/10/25 15:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": null
+  },
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Creative Design",
+    "assignment_name": "[SYNTHETIC DATA] Week 06 - Poster Draft",
+    "due_at": "2024/10/25 23:59",
+    "late_minutes": 5,
+    "assignment_type": "個人",
+    "score": 60
+  },
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Chinese Communication",
+    "assignment_name": "[SYNTHETIC DATA] Week 07 - Mind Map",
+    "due_at": "2024/10/28 12:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": null
+  },
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Digital Literacy",
+    "assignment_name": "[SYNTHETIC DATA] Week 07 - Data Ethics",
+    "due_at": "2024/10/28 18:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 92
+  },
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Intro to Programming",
+    "assignment_name": "[SYNTHETIC DATA] Week 07 - Functions",
+    "due_at": "2024/10/31 15:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 80
+  },
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Academic English I",
+    "assignment_name": "[SYNTHETIC DATA] Week 07 - Vocabulary Log",
+    "due_at": "2024/10/31 23:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 98
+  },
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Creative Design",
+    "assignment_name": "[SYNTHETIC DATA] Week 08 - Composition Exercise",
+    "due_at": "2024/11/9 12:00",
+    "late_minutes": 240,
+    "assignment_type": "個人",
+    "score": 90
+  },
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Calculus Practice",
+    "assignment_name": "[SYNTHETIC DATA] Week 08 - Applications",
+    "due_at": "2024/11/9 18:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 78
+  },
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Digital Literacy",
+    "assignment_name": "[SYNTHETIC DATA] Week 09 - Spreadsheet Lab",
+    "due_at": "2024/11/12 08:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": null
+  },
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Chinese Communication",
+    "assignment_name": "[SYNTHETIC DATA] Week 09 - Group Outline",
+    "due_at": "2024/11/12 11:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 98
+  },
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Academic English I",
+    "assignment_name": "[SYNTHETIC DATA] Week 09 - Short Essay",
+    "due_at": "2024/11/15 12:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": null
+  },
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Intro to Programming",
+    "assignment_name": "[SYNTHETIC DATA] Week 09 - Arrays",
+    "due_at": "2024/11/15 18:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": null
+  },
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Calculus Practice",
+    "assignment_name": "[SYNTHETIC DATA] Week 10 - Review Sheet",
+    "due_at": "2024/11/18 08:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 100
+  },
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Creative Design",
+    "assignment_name": "[SYNTHETIC DATA] Week 10 - Design Critique",
+    "due_at": "2024/11/18 11:59",
+    "late_minutes": 18,
+    "assignment_type": "個人",
+    "score": 65
+  },
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Chinese Communication",
+    "assignment_name": "[SYNTHETIC DATA] Week 11 - Reflection",
+    "due_at": "2024/11/27 15:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 90
+  },
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Digital Literacy",
+    "assignment_name": "[SYNTHETIC DATA] Week 11 - Python Sorting",
+    "due_at": "2024/11/27 23:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 75
+  },
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Intro to Programming",
+    "assignment_name": "[SYNTHETIC DATA] Week 11 - Mini Project",
+    "due_at": "2024/11/30 08:59",
+    "late_minutes": 0,
+    "assignment_type": "分組",
+    "score": null
+  },
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Academic English I",
+    "assignment_name": "[SYNTHETIC DATA] Week 11 - Presentation Script",
+    "due_at": "2024/11/30 11:59",
+    "late_minutes": 0,
+    "assignment_type": "分組",
+    "score": null
+  },
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Creative Design",
+    "assignment_name": "[SYNTHETIC DATA] Week 12 - Portfolio",
+    "due_at": "2024/12/3 15:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 82
+  },
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Calculus Practice",
+    "assignment_name": "[SYNTHETIC DATA] Week 12 - Final Practice",
+    "due_at": "2024/12/3 23:59",
+    "late_minutes": 240,
+    "assignment_type": "個人",
+    "score": 78
+  },
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Digital Literacy",
+    "assignment_name": "[SYNTHETIC DATA] Week 13 - Final Reflection",
+    "due_at": "2024/12/12 12:00",
+    "late_minutes": 0,
+    "assignment_type": "分組",
+    "score": null
+  },
+  {
+    "semester": "1131",
+    "course_name": "DEMO-SYNTHETIC｜Chinese Communication",
+    "assignment_name": "[SYNTHETIC DATA] Week 13 - Final Report",
+    "due_at": "2024/12/12 18:00",
+    "late_minutes": 0,
+    "assignment_type": "分組",
+    "score": 75
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Programming II",
+    "assignment_name": "[SYNTHETIC DATA] Week 03 - Warm-up",
+    "due_at": "2025/3/11 12:00",
+    "late_minutes": 30,
+    "assignment_type": "個人",
+    "score": 95
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Circuit Fundamentals",
+    "assignment_name": "[SYNTHETIC DATA] Week 03 - Ohm's Law",
+    "due_at": "2025/3/11 18:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 90
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Academic English II",
+    "assignment_name": "[SYNTHETIC DATA] Week 04 - Workbook Practice",
+    "due_at": "2025/3/20 08:59",
+    "late_minutes": 240,
+    "assignment_type": "個人",
+    "score": 0
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Discrete Mathematics",
+    "assignment_name": "[SYNTHETIC DATA] Week 04 - Logic Proof",
+    "due_at": "2025/3/20 11:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 78
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Circuit Fundamentals",
+    "assignment_name": "[SYNTHETIC DATA] Week 05 - RC Circuit",
+    "due_at": "2025/3/26 08:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 90
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Programming II",
+    "assignment_name": "[SYNTHETIC DATA] Week 05 - Pointers",
+    "due_at": "2025/3/26 11:59",
+    "late_minutes": 120,
+    "assignment_type": "個人",
+    "score": null
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Calculus II",
+    "assignment_name": "[SYNTHETIC DATA] Week 05 - Integration",
+    "due_at": "2025/3/29 15:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 98
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Mind and Philosophy",
+    "assignment_name": "[SYNTHETIC DATA] Week 05 - Unit 1 Worksheet",
+    "due_at": "2025/3/29 23:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": null
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Discrete Mathematics",
+    "assignment_name": "[SYNTHETIC DATA] Week 06 - Set Theory",
+    "due_at": "2025/4/4 15:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 82
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Academic English II",
+    "assignment_name": "[SYNTHETIC DATA] Week 06 - Sentence Writing",
+    "due_at": "2025/4/4 23:59",
+    "late_minutes": 60,
+    "assignment_type": "個人",
+    "score": 75
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Mind and Philosophy",
+    "assignment_name": "[SYNTHETIC DATA] Week 07 - Argument Map",
+    "due_at": "2025/4/7 12:00",
+    "late_minutes": 60,
+    "assignment_type": "個人",
+    "score": 75
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Calculus II",
+    "assignment_name": "[SYNTHETIC DATA] Week 07 - Series",
+    "due_at": "2025/4/7 18:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 85
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Programming II",
+    "assignment_name": "[SYNTHETIC DATA] Week 07 - Recursion",
+    "due_at": "2025/4/10 15:00",
+    "late_minutes": 90,
+    "assignment_type": "個人",
+    "score": 0
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Circuit Fundamentals",
+    "assignment_name": "[SYNTHETIC DATA] Week 07 - Simulation Lab",
+    "due_at": "2025/4/10 23:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": null
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Programming II",
+    "assignment_name": "[SYNTHETIC DATA] Bonus Challenge - Simple Parser",
+    "due_at": "2025/4/18 23:59",
+    "late_minutes": 15,
+    "assignment_type": "個人",
+    "score": 80
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Academic English II",
+    "assignment_name": "[SYNTHETIC DATA] Week 08 - Listening Log",
+    "due_at": "2025/4/19 12:00",
+    "late_minutes": 60,
+    "assignment_type": "個人",
+    "score": null
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Discrete Mathematics",
+    "assignment_name": "[SYNTHETIC DATA] Week 08 - Graph Basics",
+    "due_at": "2025/4/19 18:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 75
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Calculus II",
+    "assignment_name": "[SYNTHETIC DATA] Week 09 - Partial Derivatives",
+    "due_at": "2025/4/22 08:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 92
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Mind and Philosophy",
+    "assignment_name": "[SYNTHETIC DATA] Week 09 - Reading Response",
+    "due_at": "2025/4/22 11:59",
+    "late_minutes": 4320,
+    "assignment_type": "個人",
+    "score": 95
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Circuit Fundamentals",
+    "assignment_name": "[SYNTHETIC DATA] Week 09 - Midterm Review",
+    "due_at": "2025/4/25 12:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 98
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Programming II",
+    "assignment_name": "[SYNTHETIC DATA] Week 09 - File I/O",
+    "due_at": "2025/4/25 18:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 88
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Discrete Mathematics",
+    "assignment_name": "[SYNTHETIC DATA] Week 10 - Counting",
+    "due_at": "2025/4/28 08:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 95
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Academic English II",
+    "assignment_name": "[SYNTHETIC DATA] Week 10 - Group Slides",
+    "due_at": "2025/4/28 11:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 95
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Mind and Philosophy",
+    "assignment_name": "[SYNTHETIC DATA] Week 11 - Discussion Notes",
+    "due_at": "2025/5/7 15:00",
+    "late_minutes": 8,
+    "assignment_type": "個人",
+    "score": 82
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Calculus II",
+    "assignment_name": "[SYNTHETIC DATA] Week 11 - Practice Quiz",
+    "due_at": "2025/5/7 23:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 88
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Programming II",
+    "assignment_name": "[SYNTHETIC DATA] Week 11 - Final Program",
+    "due_at": "2025/5/10 08:59",
+    "late_minutes": 5,
+    "assignment_type": "分組",
+    "score": 82
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Circuit Fundamentals",
+    "assignment_name": "[SYNTHETIC DATA] Week 11 - Final Lab",
+    "due_at": "2025/5/10 11:59",
+    "late_minutes": 0,
+    "assignment_type": "分組",
+    "score": 0
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Academic English II",
+    "assignment_name": "[SYNTHETIC DATA] Week 12 - Final Reflection",
+    "due_at": "2025/5/13 15:00",
+    "late_minutes": 0,
+    "assignment_type": "分組",
+    "score": 80
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Discrete Mathematics",
+    "assignment_name": "[SYNTHETIC DATA] Week 12 - Review",
+    "due_at": "2025/5/13 23:59",
+    "late_minutes": 12,
+    "assignment_type": "分組",
+    "score": 75
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Calculus II",
+    "assignment_name": "[SYNTHETIC DATA] Week 13 - Final Worksheet",
+    "due_at": "2025/5/22 12:00",
+    "late_minutes": 2880,
+    "assignment_type": "分組",
+    "score": 90
+  },
+  {
+    "semester": "1132",
+    "course_name": "DEMO-SYNTHETIC｜Mind and Philosophy",
+    "assignment_name": "[SYNTHETIC DATA] Week 13 - Final Essay",
+    "due_at": "2025/5/22 18:00",
+    "late_minutes": 0,
+    "assignment_type": "分組",
+    "score": null
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Data Structures",
+    "assignment_name": "[SYNTHETIC DATA] Week 03 - Stack Queue",
+    "due_at": "2025/9/30 12:00",
+    "late_minutes": 360,
+    "assignment_type": "個人",
+    "score": 92
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Computer Networks",
+    "assignment_name": "[SYNTHETIC DATA] Week 03 - Internet Tools",
+    "due_at": "2025/9/30 18:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 90
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Service Management",
+    "assignment_name": "[SYNTHETIC DATA] Week 04 - Case Summary",
+    "due_at": "2025/10/9 08:59",
+    "late_minutes": 240,
+    "assignment_type": "個人",
+    "score": 70
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Linear Algebra",
+    "assignment_name": "[SYNTHETIC DATA] Week 04 - Matrix Operations",
+    "due_at": "2025/10/9 11:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 0
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Computer Networks",
+    "assignment_name": "[SYNTHETIC DATA] Week 05 - Socket Practice",
+    "due_at": "2025/10/15 08:59",
+    "late_minutes": 5,
+    "assignment_type": "個人",
+    "score": 0
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Data Structures",
+    "assignment_name": "[SYNTHETIC DATA] Week 05 - Linked List",
+    "due_at": "2025/10/15 11:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 0
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Web Programming",
+    "assignment_name": "[SYNTHETIC DATA] Week 05 - HTML CSS",
+    "due_at": "2025/10/18 15:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 70
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Art and Math",
+    "assignment_name": "[SYNTHETIC DATA] Week 05 - Proportion",
+    "due_at": "2025/10/18 23:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 92
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Linear Algebra",
+    "assignment_name": "[SYNTHETIC DATA] Week 06 - Vector Space",
+    "due_at": "2025/10/24 15:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 0
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Service Management",
+    "assignment_name": "[SYNTHETIC DATA] Week 06 - Team Contract",
+    "due_at": "2025/10/24 23:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 92
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Art and Math",
+    "assignment_name": "[SYNTHETIC DATA] Week 07 - Fractal Art",
+    "due_at": "2025/10/27 12:00",
+    "late_minutes": 5,
+    "assignment_type": "個人",
+    "score": 82
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Web Programming",
+    "assignment_name": "[SYNTHETIC DATA] Week 07 - JavaScript DOM",
+    "due_at": "2025/10/27 18:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": null
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Data Structures",
+    "assignment_name": "[SYNTHETIC DATA] Week 07 - Trees",
+    "due_at": "2025/10/30 15:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": null
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Computer Networks",
+    "assignment_name": "[SYNTHETIC DATA] Week 07 - Packet Analysis",
+    "due_at": "2025/10/30 23:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 70
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Data Structures",
+    "assignment_name": "[SYNTHETIC DATA] Bonus Lab - Priority Queue",
+    "due_at": "2025/11/7 23:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 85
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Service Management",
+    "assignment_name": "[SYNTHETIC DATA] Week 08 - Interview Notes",
+    "due_at": "2025/11/8 12:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 65
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Linear Algebra",
+    "assignment_name": "[SYNTHETIC DATA] Week 08 - Eigenvalues",
+    "due_at": "2025/11/8 18:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 70
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Web Programming",
+    "assignment_name": "[SYNTHETIC DATA] Week 09 - Backend API",
+    "due_at": "2025/11/11 08:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 85
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Art and Math",
+    "assignment_name": "[SYNTHETIC DATA] Week 09 - Pattern Study",
+    "due_at": "2025/11/11 11:59",
+    "late_minutes": 45,
+    "assignment_type": "個人",
+    "score": 80
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Computer Networks",
+    "assignment_name": "[SYNTHETIC DATA] Week 09 - Routing Lab",
+    "due_at": "2025/11/14 12:00",
+    "late_minutes": 90,
+    "assignment_type": "個人",
+    "score": 75
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Data Structures",
+    "assignment_name": "[SYNTHETIC DATA] Week 09 - Hash Table",
+    "due_at": "2025/11/14 18:00",
+    "late_minutes": 240,
+    "assignment_type": "個人",
+    "score": 65
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Linear Algebra",
+    "assignment_name": "[SYNTHETIC DATA] Week 10 - Review Activity",
+    "due_at": "2025/11/17 08:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 95
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Service Management",
+    "assignment_name": "[SYNTHETIC DATA] Week 10 - Written Report",
+    "due_at": "2025/11/17 11:59",
+    "late_minutes": 0,
+    "assignment_type": "分組",
+    "score": null
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Art and Math",
+    "assignment_name": "[SYNTHETIC DATA] Week 11 - AI Art Reflection",
+    "due_at": "2025/11/26 15:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": null
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Web Programming",
+    "assignment_name": "[SYNTHETIC DATA] Week 11 - Progress Report",
+    "due_at": "2025/11/26 23:59",
+    "late_minutes": 0,
+    "assignment_type": "分組",
+    "score": null
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Data Structures",
+    "assignment_name": "[SYNTHETIC DATA] Week 11 - Final Project",
+    "due_at": "2025/11/29 08:59",
+    "late_minutes": 0,
+    "assignment_type": "分組",
+    "score": 98
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Computer Networks",
+    "assignment_name": "[SYNTHETIC DATA] Week 11 - Final Homework",
+    "due_at": "2025/11/29 11:59",
+    "late_minutes": 4320,
+    "assignment_type": "個人",
+    "score": 70
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Service Management",
+    "assignment_name": "[SYNTHETIC DATA] Week 12 - Presentation",
+    "due_at": "2025/12/2 15:00",
+    "late_minutes": 0,
+    "assignment_type": "分組",
+    "score": 82
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Linear Algebra",
+    "assignment_name": "[SYNTHETIC DATA] Week 12 - Self Study",
+    "due_at": "2025/12/2 23:59",
+    "late_minutes": 0,
+    "assignment_type": "分組",
+    "score": null
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Web Programming",
+    "assignment_name": "[SYNTHETIC DATA] Week 13 - Final Demo",
+    "due_at": "2025/12/11 12:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": null
+  },
+  {
+    "semester": "1141",
+    "course_name": "DEMO-SYNTHETIC｜Art and Math",
+    "assignment_name": "[SYNTHETIC DATA] Week 13 - Digital Calendar",
+    "due_at": "2025/12/11 18:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 82
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜Operating Systems",
+    "assignment_name": "[SYNTHETIC DATA] Week 03 - Process Notes",
+    "due_at": "2026/3/11 12:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": null
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜Machine Learning",
+    "assignment_name": "[SYNTHETIC DATA] Week 03 - Linear Regression",
+    "due_at": "2026/3/11 18:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 65
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜Image Processing",
+    "assignment_name": "[SYNTHETIC DATA] Week 04 - Pixel Operation",
+    "due_at": "2026/3/20 08:59",
+    "late_minutes": 5,
+    "assignment_type": "個人",
+    "score": null
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜Algorithms",
+    "assignment_name": "[SYNTHETIC DATA] Week 04 - Complexity",
+    "due_at": "2026/3/20 11:59",
+    "late_minutes": 18,
+    "assignment_type": "個人",
+    "score": 90
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜Machine Learning",
+    "assignment_name": "[SYNTHETIC DATA] Week 05 - Perceptron",
+    "due_at": "2026/3/26 08:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 82
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜Operating Systems",
+    "assignment_name": "[SYNTHETIC DATA] Week 05 - CPU Scheduling",
+    "due_at": "2026/3/26 11:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": null
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜Data Mining",
+    "assignment_name": "[SYNTHETIC DATA] Week 05 - EDA Practice",
+    "due_at": "2026/3/29 15:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 88
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜English Through Films",
+    "assignment_name": "[SYNTHETIC DATA] Week 05 - Weekly Journal",
+    "due_at": "2026/3/29 23:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 0
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜Algorithms",
+    "assignment_name": "[SYNTHETIC DATA] Week 06 - Greedy Methods",
+    "due_at": "2026/4/4 15:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 90
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜Image Processing",
+    "assignment_name": "[SYNTHETIC DATA] Week 06 - Filtering",
+    "due_at": "2026/4/4 23:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 78
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜English Through Films",
+    "assignment_name": "[SYNTHETIC DATA] Week 07 - Midterm Reflection",
+    "due_at": "2026/4/7 12:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": null
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜Data Mining",
+    "assignment_name": "[SYNTHETIC DATA] Week 07 - Decision Tree",
+    "due_at": "2026/4/7 18:00",
+    "late_minutes": 720,
+    "assignment_type": "個人",
+    "score": null
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜Operating Systems",
+    "assignment_name": "[SYNTHETIC DATA] Week 07 - Deadlock",
+    "due_at": "2026/4/10 15:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 85
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜Machine Learning",
+    "assignment_name": "[SYNTHETIC DATA] Week 07 - Logistic Regression",
+    "due_at": "2026/4/10 23:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 75
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜Image Processing",
+    "assignment_name": "[SYNTHETIC DATA] Week 08 - Edge Detection",
+    "due_at": "2026/4/19 12:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": null
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜Algorithms",
+    "assignment_name": "[SYNTHETIC DATA] Week 08 - Graph Shortest Path",
+    "due_at": "2026/4/19 18:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 65
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜Data Mining",
+    "assignment_name": "[SYNTHETIC DATA] Week 09 - Random Forest",
+    "due_at": "2026/4/22 08:59",
+    "late_minutes": 45,
+    "assignment_type": "個人",
+    "score": null
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜English Through Films",
+    "assignment_name": "[SYNTHETIC DATA] Week 09 - Film Discussion",
+    "due_at": "2026/4/22 11:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 92
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜Machine Learning",
+    "assignment_name": "[SYNTHETIC DATA] Week 09 - Naive Bayes",
+    "due_at": "2026/4/25 12:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 98
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜Operating Systems",
+    "assignment_name": "[SYNTHETIC DATA] Week 09 - Memory Management",
+    "due_at": "2026/4/25 18:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 95
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜Algorithms",
+    "assignment_name": "[SYNTHETIC DATA] Week 10 - Dynamic Programming",
+    "due_at": "2026/4/28 08:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": null
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜Image Processing",
+    "assignment_name": "[SYNTHETIC DATA] Week 10 - Histogram",
+    "due_at": "2026/4/28 11:59",
+    "late_minutes": 4320,
+    "assignment_type": "個人",
+    "score": 85
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜English Through Films",
+    "assignment_name": "[SYNTHETIC DATA] Week 11 - Final Evaluation",
+    "due_at": "2026/5/7 15:00",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 100
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜Data Mining",
+    "assignment_name": "[SYNTHETIC DATA] Week 11 - Association Rules",
+    "due_at": "2026/5/7 23:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": 60
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜Data Mining",
+    "assignment_name": "[SYNTHETIC DATA] Bonus Notebook - Clustering Demo",
+    "due_at": "2026/5/8 23:59",
+    "late_minutes": 0,
+    "assignment_type": "個人",
+    "score": null
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜Operating Systems",
+    "assignment_name": "[SYNTHETIC DATA] Week 11 - File System",
+    "due_at": "2026/5/10 08:59",
+    "late_minutes": 0,
+    "assignment_type": "分組",
+    "score": 88
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜Machine Learning",
+    "assignment_name": "[SYNTHETIC DATA] Week 11 - Image Classification",
+    "due_at": "2026/5/10 11:59",
+    "late_minutes": 0,
+    "assignment_type": "分組",
+    "score": 80
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜Image Processing",
+    "assignment_name": "[SYNTHETIC DATA] Week 12 - Final Activity",
+    "due_at": "2026/5/13 15:00",
+    "late_minutes": 0,
+    "assignment_type": "分組",
+    "score": 60
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜Algorithms",
+    "assignment_name": "[SYNTHETIC DATA] Week 12 - Semester Project",
+    "due_at": "2026/5/13 23:59",
+    "late_minutes": 0,
+    "assignment_type": "分組",
+    "score": 75
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜Data Mining",
+    "assignment_name": "[SYNTHETIC DATA] Week 13 - Final Report",
+    "due_at": "2026/5/22 12:00",
+    "late_minutes": 0,
+    "assignment_type": "分組",
+    "score": 88
+  },
+  {
+    "semester": "1142",
+    "course_name": "DEMO-SYNTHETIC｜English Through Films",
+    "assignment_name": "[SYNTHETIC DATA] Week 13 - Self Learning",
+    "due_at": "2026/5/22 18:00",
+    "late_minutes": 720,
+    "assignment_type": "分組",
+    "score": 82
+  }
+]
